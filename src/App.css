@@ -132,7 +132,9 @@ img {
     display: grid;
     gap: 1.5rem;
 }
+
 /* === BOTÕES === */
+
 .button {
     display: inline-block;
     background-color: var(--title-color);
