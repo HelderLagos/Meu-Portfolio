@@ -8,7 +8,7 @@ const Info = () => {
 
         <h3 className="about__title">Experiência</h3>
         <span className="about__subtitle">
-          Design e Fotografia
+          Desenvolvimento Fullstack
         </span>
       </div>
 
@@ -17,7 +17,7 @@ const Info = () => {
 
         <h3 className="h3b about__title">Especialidade</h3>
         <span className="about__subtitle">
-          JavaScript
+          JavaScript e ReactJs
         </span>
       </div>
 
@@ -26,7 +26,7 @@ const Info = () => {
 
         <h3 className="h3 about__title">Graduação</h3>
         <span className="graduation">
-          ADS
+          Analise e desenvolvimento de sistemas
         </span>
       </div>
     </div>

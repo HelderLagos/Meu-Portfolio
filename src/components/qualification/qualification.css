@@ -14,9 +14,11 @@
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
+    background-color: var(--body-color2);
 }
 
 .qualification__button:hover {
+    background-color: var(--body-color2);
     color: var(--title-color-dark);
 }
 

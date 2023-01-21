@@ -1,58 +1,56 @@
 import React from "react";
 
-const Backend = () => {
+const Others = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Desenvolvedor Backend</h3>
+      <h3 className="skills__title">Outros</h3>
 
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">GraphQL</h3>
-              <span className="skills__level">Intermediário</span>
+              <h3 className="skills__name">Photoshop</h3>
+              <span className="skills__level">Avançado</span>
             </div>
           </div>
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">API REST</h3>
-              <span className="skills__level">Intermediário</span>
+              <h3 className="skills__name">Kamban</h3>
+              <span className="skills__level"></span>
             </div>
           </div>
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Node Js</h3>
-              <span className="skills__level">Básico</span>
+              <h3 className="skills__name">Scrum</h3>
+              <span className="skills__level"></span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Oratória</h3>
+              <span className="skills__level">Avançado</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Social midia</h3>
+              <span className="skills__level">Avançado</span>
             </div>
           </div>
         </div>
-
-        <div className="skills__group">
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">SQL</h3>
-              <span className="skills__level">Básico</span>
-            </div>
-          </div>
-
-          <div className="studying skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Python</h3>
-              <span className="skills__level">(Cursando)</span>
-            </div>
-          </div> 
-          
-        </div>
+        
       </div>
     </div>
-  )
+  );
 };
 
-export default Backend;
+export default Others;

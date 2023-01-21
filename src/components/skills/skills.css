@@ -1,5 +1,5 @@
 .skills__container {
-    grid-template-columns: repeat(2, 350px);
+    grid-template-columns: repeat(3, 300px);
     column-gap: 3rem;
     justify-content: center;
 }
@@ -50,6 +50,9 @@
     font-size: var(--tiny-font-size);
 }
 
+.studying {
+    color: rgb(201, 194, 194);
+}
 /* ====== [BREAKPOINTS] ====== */
 
 @media screen and (max-width: 992px) {

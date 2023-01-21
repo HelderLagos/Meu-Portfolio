@@ -42,6 +42,19 @@
     transform: translateX(00.25rem);
 }
 
+.link__gh {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.more__projects {
+    margin-top: var(--mb-2);
+    font-size: var(--h3-font-size);
+    font-style: normal;
+}
 
 .services__modal {
     position: fixed;

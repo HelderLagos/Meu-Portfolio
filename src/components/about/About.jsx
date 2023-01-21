@@ -1,14 +1,14 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets//about.jpg";
-import CV from "../../assets//CVhelderlagos.pdf";
+import CV from "../../assets//curriculohelderlagos2023.pdf";
 import Info from "./Info";
 
 const About = () => {
   return (
     <section className="about section" id="about">
       <h2 className="section__title">Sobre mim...</h2>
-      <span className="section__subtitle">Minha introdução</span>
+      <span className="section__subtitle">Meu conhecimento</span>
 
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
@@ -16,10 +16,12 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Sou um desenvolvedor Front-end e Desenvolvo páginas e aplicações na
-            internet baseadas em JavaScript.
+            Colaboração, Comunicação,
+            Inteligência emocional, Organização, Proatividade, Autodidata.
+            Essas são caracteristicas que gosto de aperfeiçoar
+            sempre.
           </p>
-
+          <div className="dl__container">
           <a download="" href={CV} className="button button--flex">
             Download CV
             <svg
@@ -48,6 +50,7 @@ const About = () => {
               ></path>
             </svg>
           </a>
+          </div>
         </div>
       </div>
     </section>
