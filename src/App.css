@@ -10,9 +10,11 @@
   --title-color-dark: hsl((var(--hue), var(--sat), 0%));
   --text-color: hsl((var(--hue), var(--sat), 46%));
   --body-color: hsl((var(--hue), var(--sat), 98%));
-  --body-color2: #ece8e4;
+  --body-color2: #e9eff4;
+  --background-container1: #cee1e6;
   --container-color: #fff;
   --container-color2: #648977;
+  --container-color3: #127970;
   /* ============ FONTES / TIPOGRAFIA ============= */
   --body-font: "Poppins", sans-serif;
   /* === 0.5rem = 8px | 1rem = 16px .. * === */

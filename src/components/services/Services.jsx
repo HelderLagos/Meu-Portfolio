@@ -21,7 +21,7 @@ const Services = () => {
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(1)}>
-            Ver Mais
+            Veja mais aqui
             <i
               className="uil uil-arrow-right 
             services__button-icon"
@@ -82,7 +82,7 @@ const Services = () => {
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(2)}>
-            Ver Mais
+          Veja mais aqui
             <i
               className="uil uil-arrow-right 
             services__button-icon"
@@ -141,7 +141,7 @@ const Services = () => {
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(3)}>
-            Ver Mais
+          Veja mais aqui
             <i
               className="uil uil-arrow-right 
             services__button-icon"
