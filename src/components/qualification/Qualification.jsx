@@ -85,13 +85,13 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="h3 qualification__title">HTML e CSS</h3>
+                <h3 className="h3 qualification__title">React Completo do básico ao avançado</h3>
                 <span className="qualification__subtitle">
-                  UDEMY / Curso em Video
+                  UDEMY 
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2022
+                  2023
                 </div>
               </div>            
             </div>

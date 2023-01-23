@@ -16,7 +16,7 @@
 }
 
 .graduation {
-  font-size: 10px;
+  font-size: 0.750rem;
 }
 
 .h3b {
@@ -43,7 +43,7 @@
 }
 
 .about__subtitle {
-  font-size: var(--tiny-font-size);
+  font-size: 0.7rem;
 }
 
 .about__description {
