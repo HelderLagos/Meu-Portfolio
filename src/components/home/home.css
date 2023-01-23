@@ -161,7 +161,8 @@
         padding-top: 3.5rem; 
         width: 400px;
         justify-content: center;
-    }   
+    }
+    
     
     .home__img {
         order: initial;
@@ -186,13 +187,27 @@
         }
 }
 
-@media screen and (max-width: 576px) {  
+@media screen and (max-width: 576px) {
+    .home__content-main {
+        /* margin-left: 0.5rem; */
+    }
+
+}
+
+@media screen and (max-width: 376px) {
+    .home__content-main {
+        padding-left: 3rem;
+    }
 
 }
 
 @media screen and (max-width: 350px) {
 .home__content {
     width: 300px;
+}
+
+.home__content-main {
+    margin-left: 0.5rem;
 }
 
    .home__img {
