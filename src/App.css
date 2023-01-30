@@ -7,14 +7,16 @@
   --hue: 0;
   --sat: 0%;
   --title-color: hsl((var(--hue), var(--sat), 20%));
+  
+  --title-color2: #fff;
   --title-color-dark: hsl((var(--hue), var(--sat), 0%));
   --text-color: hsl((var(--hue), var(--sat), 46%));
   --body-color: hsl((var(--hue), var(--sat), 98%));
-  --body-color2: #e9eff4;
-  --background-container1: #cee1e6;
+  --body-color2: #ecececef;
+  --background-container1: #257a4c;
   --container-color: #fff;
   --container-color2: #648977;
-  --container-color3: #127970;
+  --container-color3: #12793d;
   /* ============ FONTES / TIPOGRAFIA ============= */
   --body-font: "Poppins", sans-serif;
   /* === 0.5rem = 8px | 1rem = 16px .. * === */

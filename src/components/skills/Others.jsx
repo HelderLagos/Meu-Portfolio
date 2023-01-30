@@ -18,18 +18,10 @@ const Others = () => {
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Kanban</h3>
+              <h3 className="skills__name">Desenvolvimento Ágil</h3>
               <span className="skills__level"></span>
             </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">Scrum</h3>
-              <span className="skills__level"></span>
-            </div>
-          </div>
+          </div>      
 
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
@@ -44,6 +36,14 @@ const Others = () => {
             <div>
               <h3 className="skills__name">Social midia</h3>
               <span className="skills__level">Avançado</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">Inglês</h3>
+              <span className="skills__level">Intermediário</span>
             </div>
           </div>
         </div>
